@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_contents",
+  "info": {
+    "displayName": "content"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "texts": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

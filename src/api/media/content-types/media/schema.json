@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "medias",
+  "info": {
+    "singularName": "media",
+    "pluralName": "medias",
+    "displayName": "media"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title_en": {
+      "type": "string"
+    },
+    "details_en": {
+      "type": "text"
+    },
+    "videos": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title_ar": {
+      "type": "string"
+    },
+    "details_ar": {
+      "type": "text"
+    }
+  }
+}
