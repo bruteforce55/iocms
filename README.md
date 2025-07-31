@@ -5,8 +5,8 @@ This is the Strapi CMS used to manage content for the IO Tech technical task.
 
 - Services
 - Team
-- Blog
-- Subscribers
+- Media
+- Hero Section
 
 ## Getting Started
 
